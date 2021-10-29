@@ -10,6 +10,8 @@ In this Homework assignment, we were asked to:
 
 * fix any bugs that we found.
 
+## Author
+- [@LindaWaterhouse](https://www.github.com/llwaterhouse)
 
 
 ## Steps taken
@@ -29,3 +31,10 @@ In this Homework assignment, we were asked to:
 * I created and added a favicon to make the content of the tab obvious
 
 * I changed the title to be more descriptive.
+
+## Deliverables
+
+### Screenshot
+
+![Screenshot of Horiseon webpage with identical laout](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
